@@ -5,12 +5,14 @@
 * Abstract Factory
 * Builder
 * Prototype
+* ..
 
 ### Structural Design Patterns
 * Adapter
 * Bridge
 * Facade
 * Decorator
+* ..
 
 ### Behavioral Design Patterns
 * Iterator
@@ -19,7 +21,7 @@
 * Strategy
 * Mediator
 * Visitor
+* ..
 
 ### Anti Patterns
-* 
-*
+* ..
