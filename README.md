@@ -19,3 +19,7 @@
 * Strategy
 * Mediator
 * Visitor
+
+### Anti Patterns
+* 
+*
